@@ -1,0 +1,1 @@
+1. crear un repositorio  2. crear 3 ramas 3 . elabore un algoritmo que muestre un menu de opciones, las opciones son las siguientes a, jugar b. calcular c. salir ese algoritmo va en una de las ramasque se cree 2 algoritmo, elabore un algoritmo que calcule el promedio de las edades de eta ficha (2 rama)  
